@@ -8,7 +8,7 @@ Title: About
 
 課程投影片: <a href="https://chiamingyen.github.io/cmsimfly/reveal">https://chiamingyen.github.io/cmsimfly/reveal</a>
 
-期中報告: <a href="https://chiamingyen.github.io/cmsimfly/blog">https://hiamingyen.github.io/cmsimfly/blog</a>
+課程網誌: <a href="https://chiamingyen.github.io/cmsimfly/blog">https://hiamingyen.github.io/cmsimfly/blog</a>
 
 期中報告影片: <a href="https://chiamingyen.github.io/cmsimfly/blog">https://hiamingyen.github.io/cmsimfly/blog</a>
 
